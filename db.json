@@ -1,0 +1,76 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Sushi de Salmão",
+            "preco": "R$ 15,00",
+            "quantidade": "200 g",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/ANwNSHM"
+        },
+        {
+            "id": 2,
+            "nome": "Temaki de Salmão grelhado",
+            "preco": "R$ 27,90",
+            "quantidade": "",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/3ltuLoK"
+        },
+        {
+            "id": 3,
+            "nome": "Niguiri",
+            "preco": "R$ 28,90",
+            "quantidade": "500 g",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/WMNZyHi"
+        },
+        {
+            "id": 4,
+            "nome": "Uramaki Philadelphia",
+            "preco": "R$ 22,90",
+            "quantidade": "300 g",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/PG1NFbr"
+        },
+        {
+            "id": 5,
+            "nome": "Yakisoba Executivo",
+            "preco": "R$ 39,90",
+            "quantidade": "500 g",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/uobU5L7"
+        },
+        {
+            "id": 6,
+            "nome": "Hot Roll",
+            "preco": "R$ 15,90",
+            "quantidade": "8 unidades, 100 g",
+            "quantidadeDtd": "",
+            "imagem": "https://imgur.com/eM3Y9Fk"
+        },
+        {
+            "id": 7,
+            "nome": "Combo Japa 55",
+            "preco": "R$ 75,90",
+            "quantidade": "55 unidades",
+            "quantidadeDtd": "15 sashimis variados, 4 niguiris variados, 10 Uramakis Filadélfia, 8 Uramakis Skin, 10 Hot Filadélfia e 8 Makis de Salmão",
+            "imagem": "https://imgur.com/fu8CN4f"
+        },
+        {
+            "id": 8,
+            "nome": "Combo Japa 34",
+            "preco": "R$ 70,95",
+            "quantidade": "34 unidades",
+            "quantidadeDtd": "10 sashimi variados, 8 Makis de Salmão, 4 niguiri variados, 10 Uramakis Filadélfia e 2 Gunkas de Salmão.",
+            "imagem": "https://imgur.com/CC5BKXG"
+        },
+        {
+            "id": 9,
+            "nome": "Combo Japa Salmão",
+            "preco": "R$ 85,90",
+            "quantidade": "34 unidades",
+            "quantidadeDtd": "10 Sashimis de Salmão, 8 Makis de Salmão, 4 Niguiris de Salmão, 2 Gunkas Salmão e 10 Uramakis Filadélfia.",
+            "imagem": "https://imgur.com/RoY5ax5"
+        }
+    ]
+}
